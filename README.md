@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElsonPAN [18M]
-- Im a beginner self taught programmer, I plan to study Computer science in college and one day work abroad as a software engineer
-- I’m currently learning C#,HTML5 and CSS3, and Winforms
+- Im a beginner self taught programmer learning to code, I plan to study Computer science in college and one day work abroad as a software engineer
+- I’m currently learning C#,HTML5 and CSS3
 - 📫 How to reach me: panzoelson@gmail.com; Reddit: sunshinne_
 
 <!---
